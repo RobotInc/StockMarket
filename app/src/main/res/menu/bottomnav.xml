@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/live"
+        android:title="Live"
+        android:icon="@drawable/live"></item>
+    <item android:id="@+id/watchlist"
+        android:title="Watch List"
+        android:icon="@drawable/watchlist"></item>
+    <item android:icon="@drawable/search"
+        android:id="@+id/search"
+        android:title="Search"></item>
+    <item android:title="profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"></item>
+</menu>
